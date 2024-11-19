@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+  }
+  
+  #savollar-qutisi {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .savol-javob {
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .savol {
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .javob {
+    display: none;
+    margin-top: 5px;
+  }
+  
+  .javob.korinadi {
+    display: block;
+  }
+  
+  .faol {
+    background-color: #f9f9f9;
+  }
+  
+  .sevimli-btn {
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  .sevimli-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .tugmalar {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .tugmalar button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #hammasini-kengaytir {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  #hammasini-yop {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  #joylashuvni-top {
+    background-color: #ffc107;
+    color: black;
+  }
+  
+  #status {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
